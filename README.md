@@ -62,5 +62,7 @@ Feature Engineering: Explore additional features that may improve prediction acc
 Feel free to contribute to this project by opening issues or submitting pull requests. Contributions are always welcome! 🙌
 
 Team Members- 
+
 Abhishek Kumar (IEC2021010) - IIIT'A
+
 Rohit Tudu (IEC2021123) - IIIT'A
